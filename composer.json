@@ -1,0 +1,16 @@
+{
+    "name": "redbox/distance",
+    "description": "Redbox toolbox",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "^7.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Johnny Mast",
+            "email": "mastjohnny@gmail.com"
+        }
+    ],
+    "require": {}
+}
