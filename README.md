@@ -2,14 +2,7 @@
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/johnnymast/redbox-package-skeleton/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/johnnymast/redbox-package-skeleton/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/johnnymast/redbox-package-skeleton/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/johnnymast/redbox-package-skeleton/?branch=master)
 
-# Redbox-package-skeleton
- 
-This is just a skeleton for my php packages.
+# Redbox-toolbox
 
-## installation 
-
-```bash
-$ composer create-project -sdev redbox/redbox-package-skeleton ./skel/
-```
-
+NOT READY
 
